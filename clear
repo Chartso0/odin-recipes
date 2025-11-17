@@ -1,0 +1,48 @@
+[33mcommit 9be31fca22fcfb833915df4fd3c690273337b047[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Chartso0 <zplee54@gmail.com>
+Date:   Sun Nov 16 21:41:22 2025 +0800
+
+    Fix Img Src for Relative Path not showingclear
+
+[33mcommit a2519aec39323bd359af4c3d754e47f79d6d8939[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Chartso0 <zplee54@gmail.com>
+Date:   Sun Nov 16 21:36:52 2025 +0800
+
+    cheesy-ramen-noodles.html recipe page with content structure.
+
+[33mcommit 4601605b1b8a2153123213c8335909d2d0ebead5[m
+Author: Chartso0 <zplee54@gmail.com>
+Date:   Sun Nov 16 21:33:28 2025 +0800
+
+    Added Recipes files
+
+[33mcommit a307a806155ced5d7445535bf4e32b2fa9dcc246[m
+Author: Chartso0 <zplee54@gmail.com>
+Date:   Sun Nov 16 21:32:04 2025 +0800
+
+    Added Images files
+
+[33mcommit eada936756a45f0beab7a5a4a23e65492f8146a4[m
+Merge: a4d994d b632860
+Author: Chartso0 <zplee54@gmail.com>
+Date:   Sun Nov 16 20:37:35 2025 +0800
+
+    Merge branch 'main' of github.com:Chartso0/odin-recipes
+
+[33mcommit a4d994dfa749e5bffc22efee6a002fac660b6482[m
+Author: Chartso0 <zplee54@gmail.com>
+Date:   Sun Nov 16 20:36:39 2025 +0800
+
+    Add DOCTYPE HTML and <a href> to index.html
+
+[33mcommit b632860ac4cfc5ec29d21f26b894a106b108d7b8[m
+Author: Chartso0 <zplee54@gmail.com>
+Date:   Sun Nov 16 19:32:00 2025 +0800
+
+    Add DOCTYPE HTML and anchor tag (<a href>) to index.html
+
+[33mcommit e3f3077d5cf2771170b84d55f4e8cc5266018a6e[m
+Author: Chartso0 <zplee54@gmail.com>
+Date:   Sun Nov 16 17:20:01 2025 +0800
+
+    Initial commit
